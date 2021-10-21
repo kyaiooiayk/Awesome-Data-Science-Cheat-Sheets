@@ -10,6 +10,9 @@ Links to freely available data science cheat sheets
 ## Big-O Cheat SheetBeco
 - Time and space complexity *by Eric Rowell* [link](https://www.bigocheatsheet.com/)
 
+## Becoming a Data Scientist
+- Roadme on how to become a data scientist *by Swami Chandrasekaran* [link](http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.png)
+
 ## Dashboard
 - Basic of Bokeh *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/f0c1e06f-53ba-4f3b-aa9f-b196221f55a3)
 
@@ -38,5 +41,5 @@ Links to freely available data science cheat sheets
 ## Tensor Flow
 - Keras main classes structures *by ALTOROS* [link](https://cdn-images-1.medium.com/max/2000/1*dtOZSuYDonyyBvEULpJALw.png)
 
-# Keras
+## Keras
 - Basics of Keras *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/af9bb467-170d-41c9-a0bd-26e675384c4e)

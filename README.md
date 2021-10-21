@@ -36,7 +36,7 @@ Links to freely available data science cheat sheets
 - Basic of Spark I *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/acfa4325-1d43-4542-8ce4-bea2d287db10)
 
 ## Tensor Flow
-- Compiled *by ALTOROS* [link](https://cdn-images-1.medium.com/max/2000/1*dtOZSuYDonyyBvEULpJALw.png)
+- Keras main classes structures *by ALTOROS* [link](https://cdn-images-1.medium.com/max/2000/1*dtOZSuYDonyyBvEULpJALw.png)
 
 # Keras
 - Basics of Keras *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/af9bb467-170d-41c9-a0bd-26e675384c4e)

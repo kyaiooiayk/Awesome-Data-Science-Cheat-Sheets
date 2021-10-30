@@ -7,7 +7,7 @@ Links to freely available data science cheat sheets
 ## Azure Machine Learning Studio
 - This cheat sheet helps you choose the best Azure Machine Learning Studio algorithm [link](https://docs.microsoft.com/en-us/azure/machine-learning/media/algorithm-cheat-sheet/machine-learning-algorithm-cheat-sheet.png)
 
-## Big-O Cheat SheetBeco
+## Big-O Cheat Sheet
 - Time and space complexity *by Eric Rowell* [link](https://www.bigocheatsheet.com/)
 
 ## Becoming a Data Scientist

@@ -29,6 +29,10 @@ Links to freely available data science cheat sheets
 - Basic python for data scientist *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/0eff0330-e87d-4c34-88d5-73e80cb955f2)
 - NumPy Basics *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/ba1fe95a-8b70-4d2f-95b0-bc954e9071b0)
 
+## Preprocessing
+- Feature selection depending on input/output variavles [link](https://machinelearningmastery.com/wp-content/uploads/2019/11/How-to-Choose-Feature-Selection-Methods-For-Machine-Learning.png)
+- 
+
 ## Scikit-learn
 - Choosing the right estimator in Scikit-learn [link](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 

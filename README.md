@@ -33,7 +33,6 @@ Links to freely available data science cheat sheets
 
 ## Preprocessing
 - Feature selection depending on input/output variavles [link](https://machinelearningmastery.com/wp-content/uploads/2019/11/How-to-Choose-Feature-Selection-Methods-For-Machine-Learning.png)
-- 
 
 ## Scikit-learn
 - Choosing the right estimator in Scikit-learn [link](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
@@ -46,6 +45,9 @@ Links to freely available data science cheat sheets
 
 ## Tensor Flow
 - Keras main classes structures *by ALTOROS* [link](https://cdn-images-1.medium.com/max/2000/1*dtOZSuYDonyyBvEULpJALw.png)
+
+## Tuning
+Machine Learning Performance Improvement *by Machine Learning Mastery* [link](https://machinelearningmastery.com/machine-learning-performance-improvement-cheat-sheet/)
 
 ## Keras
 - Basics of Keras *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/af9bb467-170d-41c9-a0bd-26e675384c4e)

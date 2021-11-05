@@ -3,6 +3,8 @@ Links to freely available data science cheat sheets
 
 ## ANNs - Artificial Neural Networks
 - A list of most common ANNs architectures [link#1](https://www.asimovinstitute.org/neural-network-zoo/), [link#2](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
+- How to choose an hidden layer activation function [link](https://machinelearningmastery.com/wp-content/uploads/2020/12/How-to-Choose-an-Hidden-Layer-Activation-Function.png)
+- How to choose an output layer activation function [link](https://machinelearningmastery.com/wp-content/uploads/2020/12/How-to-Choose-an-Output-Layer-Activation-Function.png)
 
 ## Azure Machine Learning Studio
 - This cheat sheet helps you choose the best Azure Machine Learning Studio algorithm [link](https://docs.microsoft.com/en-us/azure/machine-learning/media/algorithm-cheat-sheet/machine-learning-algorithm-cheat-sheet.png)

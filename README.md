@@ -43,6 +43,9 @@ Links to freely available data science cheat sheets
 ## Spark
 - Basic of Spark I *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/acfa4325-1d43-4542-8ce4-bea2d287db10)
 
+## Time Series
+- 11 Classical Time Series Forecasting Methods in Python *by Machine Learning Mastery* [link](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
+
 ## Tensor Flow
 - Keras main classes structures *by ALTOROS* [link](https://cdn-images-1.medium.com/max/2000/1*dtOZSuYDonyyBvEULpJALw.png)
 

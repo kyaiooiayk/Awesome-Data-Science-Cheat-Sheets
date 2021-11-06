@@ -46,6 +46,9 @@ Links to freely available data science cheat sheets
 ## Spark
 - Basic of Spark I *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/acfa4325-1d43-4542-8ce4-bea2d287db10)
 
+## Statistics
+- Statistical Hypothesis Tests *by Machine Learning Mastery* [link](https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/)
+
 ## Time Series
 - 11 Classical Time Series Forecasting Methods in Python *by Machine Learning Mastery* [link](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
 

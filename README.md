@@ -18,6 +18,9 @@ Links to freely available data science cheat sheets
 ## Dashboard
 - Basic of Bokeh *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/f0c1e06f-53ba-4f3b-aa9f-b196221f55a3)
 
+## Linear Algebra & Calculus
+- Linear Algebra Cheat Sheet for Machine Learning *by Machine Learning Mastery* [link](https://machinelearningmastery.com/linear-algebra-cheat-sheet-for-machine-learning/)
+
 ## Visualisation
 - Basics of Matplotlib *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/e1a8f39d-71ad-4d13-9a6b-618fe1b8c9e9)
 - Baiscs of ggp2

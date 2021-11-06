@@ -51,3 +51,6 @@ Machine Learning Performance Improvement *by Machine Learning Mastery* [link](ht
 
 ## Keras
 - Basics of Keras *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/af9bb467-170d-41c9-a0bd-26e675384c4e)
+
+## Uncertainty Quantification
+- Schema for prediction intervals [link](https://machinelearningmastery.com/wp-content/uploads/2018/04/Relationship-between-prediction-actual-value-and-prediction-interval.png)

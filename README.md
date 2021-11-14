@@ -31,6 +31,7 @@ Links to freely available data science cheat sheets
 ## Machine Learning
 - Machine learning methods classification [link](https://arc.aiaa.org/action/showImage?doi=10.2514%2F1.J060131&iName=master.img-014.jpg&type=master)
 - Data Scients Cheat Sheet *by Aaron Wang* [Part #1](https://raw.githubusercontent.com/aaronwangy/Data-Science-Cheatsheet/main/images/page1-1.png) & [Part #2](https://raw.githubusercontent.com/aaronwangy/Data-Science-Cheatsheet/main/images/page2-1.png)
+- Complete listed of methods *by Maverick Lin* [link](https://github.com/ml874/Data-Science-Cheatsheet/blob/master/data-science-cheatsheet.pdf)
 
 ## Visualisation
 - Basics of Matplotlib *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/e1a8f39d-71ad-4d13-9a6b-618fe1b8c9e9)
@@ -57,9 +58,10 @@ Links to freely available data science cheat sheets
 ## Spark
 - Basic of Spark I *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/acfa4325-1d43-4542-8ce4-bea2d287db10)
 
-## Statistics
+## Statistics & Probability
 - Statistical Hypothesis Tests *by Machine Learning Mastery* [link](https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/)
 - Gallery of Distributions [link](https://www.itl.nist.gov/div898/handbook/eda/section3/eda366.htm)
+- Probability Cheatsheet *by William Chen* [link](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
 
 ## Time Series
 - 11 Classical Time Series Forecasting Methods in Python *by Machine Learning Mastery* [link](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)

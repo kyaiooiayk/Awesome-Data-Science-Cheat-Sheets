@@ -27,6 +27,9 @@ Links to freely available data science cheat sheets
 ## Linear Algebra & Calculus
 - Linear Algebra Cheat Sheet for Machine Learning *by Machine Learning Mastery* [link](https://machinelearningmastery.com/linear-algebra-cheat-sheet-for-machine-learning/)
 
+## Machine Learning
+- Machine learning method classification [link](https://arc.aiaa.org/action/showImage?doi=10.2514%2F1.J060131&iName=master.img-014.jpg&type=master)
+
 ## Visualisation
 - Basics of Matplotlib *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/e1a8f39d-71ad-4d13-9a6b-618fe1b8c9e9)
 - Baiscs of ggp2

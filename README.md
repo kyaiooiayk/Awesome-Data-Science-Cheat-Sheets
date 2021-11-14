@@ -5,6 +5,8 @@ Links to freely available data science cheat sheets
 - A list of most common ANNs architectures [link#1](https://www.asimovinstitute.org/neural-network-zoo/), [link#2](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
 - How to choose an hidden layer activation function [link](https://machinelearningmastery.com/wp-content/uploads/2020/12/How-to-Choose-an-Hidden-Layer-Activation-Function.png)
 - How to choose an output layer activation function [link](https://machinelearningmastery.com/wp-content/uploads/2020/12/How-to-Choose-an-Output-Layer-Activation-Function.png)
+- Convolutional Neural Networks cheatsheet *by Afshine Amidi and Shervine Amidi* [link](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
+- Recurrent Neural Networks cheatsheet  *by Afshine Amidi and Shervine Amidi* [link](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
 
 ## Azure Machine Learning Studio
 - This cheat sheet helps you choose the best Azure Machine Learning Studio algorithm [link](https://docs.microsoft.com/en-us/azure/machine-learning/media/algorithm-cheat-sheet/machine-learning-algorithm-cheat-sheet.png)
@@ -22,6 +24,10 @@ Links to freely available data science cheat sheets
 ## Dashboard
 - Basic of Bokeh *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/f0c1e06f-53ba-4f3b-aa9f-b196221f55a3)
 
+## Deep Learning
+- Deep Learning Tips and Tricks cheatsheet *by Afshine Amidi and Shervine Amidi* [link](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks)
+- Deep Learning cheatsheet *by Afshine Amidi and Shervine Amidi* [link](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
+
 ## GAN - Generative Adversarial Networkds
 - Tips for Training Stable GANs [link](https://machinelearningmastery.com/how-to-train-stable-generative-adversarial-networks/)
 
@@ -32,6 +38,13 @@ Links to freely available data science cheat sheets
 - Machine learning methods classification [link](https://arc.aiaa.org/action/showImage?doi=10.2514%2F1.J060131&iName=master.img-014.jpg&type=master)
 - Data Scients Cheat Sheet *by Aaron Wang* [Part #1](https://raw.githubusercontent.com/aaronwangy/Data-Science-Cheatsheet/main/images/page1-1.png) & [Part #2](https://raw.githubusercontent.com/aaronwangy/Data-Science-Cheatsheet/main/images/page2-1.png)
 - Complete listed of methods *by Maverick Lin* [link](https://github.com/ml874/Data-Science-Cheatsheet/blob/master/data-science-cheatsheet.pdf)
+- Supervised Learning cheatsheet *by Afshine Amidi and Shervine Amidi* [link](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
+- Unsupervised Learning cheatsheet *by Afshine Amidi and Shervine Amidi* [link](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning)
+- Machine Learning tips and tricks cheatsheet *by Afshine Amidi and Shervine Amidi* [link](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
+- Reflex-based models with Machine Learning *by Afshine Amidi and Shervine Amidi* [link](https://stanford.edu/~shervine/teaching/cs-221/cheatsheet-reflex-models)
+- States-based models with search optimization and MDP *by Afshine Amidi and Shervine Amidi* [link](https://stanford.edu/~shervine/teaching/cs-221/cheatsheet-states-models)
+- Variables-based models with CSP and Bayesian networks *by Afshine Amidi and Shervine Amidi* [link](https://stanford.edu/~shervine/teaching/cs-221/cheatsheet-variables-models)
+- Logic-based models with propositional and first-order logic *by Afshine Amidi and Shervine Amidi* [link](https://stanford.edu/~shervine/teaching/cs-221/cheatsheet-logic-models)
 
 ## Visualisation
 - Basics of Matplotlib *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/e1a8f39d-71ad-4d13-9a6b-618fe1b8c9e9)

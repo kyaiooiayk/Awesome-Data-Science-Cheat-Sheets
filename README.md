@@ -54,6 +54,7 @@ Links to freely available data science cheat sheets
 
 ## Statistics
 - Statistical Hypothesis Tests *by Machine Learning Mastery* [link](https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/)
+- Gallery of Distributions [link](https://www.itl.nist.gov/div898/handbook/eda/section3/eda366.htm)
 
 ## Time Series
 - 11 Classical Time Series Forecasting Methods in Python *by Machine Learning Mastery* [link](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)

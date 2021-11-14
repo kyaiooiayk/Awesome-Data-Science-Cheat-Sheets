@@ -11,6 +11,7 @@ Links to freely available data science cheat sheets
 
 ## Biases
 - Complete list of biases *by Ramya Srinivasan and Ajay Chander* [link](https://dl.acm.org/cms/attachment/ce8f80c7-f25c-4f5d-93aa-0ee09a4f7c35/srinivasan1.png)
+- Biases in a ML pipeline [link](https://imgur.com/bvArGRY)
 
 ## Big-O Cheat Sheet
 - Time and space complexity *by Eric Rowell* [link](https://www.bigocheatsheet.com/)

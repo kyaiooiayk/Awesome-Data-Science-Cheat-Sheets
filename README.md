@@ -21,6 +21,10 @@ Links to freely available data science cheat sheets
 ## Becoming a Data Scientist
 - Roadme on how to become a data scientist *by Swami Chandrasekaran* [link](http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.png)
 
+## Calculus
+- [Calculus cheat sheet #2](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning/blob/master/Other%20Cheat%20Sheets/calculus/Final%20Notes%20for%20AB%20and%20BC.pdf)
+- [Calculus cheat sheet #2](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning/blob/master/Other%20Cheat%20Sheets/calculus/Calculus_Cheat_Sheet_All.pdf)
+
 ## Convex Optimisation
 - [Convex optimisation and signal processing](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning/blob/master/Other%20Cheat%20Sheets/linear%20Algebra/A-linalg.pdf)
 

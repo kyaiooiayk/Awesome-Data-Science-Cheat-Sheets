@@ -21,6 +21,9 @@ Links to freely available data science cheat sheets
 ## Becoming a Data Scientist
 - Roadme on how to become a data scientist *by Swami Chandrasekaran* [link](http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.png)
 
+## Convex Optimisation
+- [Convex optimisation and signal processing](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning/blob/master/Other%20Cheat%20Sheets/linear%20Algebra/A-linalg.pdf)
+
 ## Dashboard
 - Basic of Bokeh *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/f0c1e06f-53ba-4f3b-aa9f-b196221f55a3)
 
@@ -36,6 +39,7 @@ Links to freely available data science cheat sheets
 
 ## Linear Algebra & Calculus
 - Linear Algebra Cheat Sheet for Machine Learning *by Machine Learning Mastery* [link](https://machinelearningmastery.com/linear-algebra-cheat-sheet-for-machine-learning/)
+- [Linear algebra](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning/blob/master/Other%20Cheat%20Sheets/linear%20Algebra/linear-algebra.pdf)
 
 ## Machine Learning
 - Machine learning methods classification [link](https://arc.aiaa.org/action/showImage?doi=10.2514%2F1.J060131&iName=master.img-014.jpg&type=master)

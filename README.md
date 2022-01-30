@@ -21,10 +21,6 @@ Links to freely available data science cheat sheets
 ## Becoming a Data Scientist
 - Roadme on how to become a data scientist *by Swami Chandrasekaran* [link](http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.png)
 
-## Calculus
-- [Calculus cheat sheet #2](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning/blob/master/Other%20Cheat%20Sheets/calculus/Final%20Notes%20for%20AB%20and%20BC.pdf)
-- [Calculus cheat sheet #2](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning/blob/master/Other%20Cheat%20Sheets/calculus/Calculus_Cheat_Sheet_All.pdf)
-
 ## Convex Optimisation
 - [Convex optimisation and signal processing](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning/blob/master/Other%20Cheat%20Sheets/linear%20Algebra/A-linalg.pdf)
 
@@ -57,6 +53,12 @@ Links to freely available data science cheat sheets
 - Variables-based models with CSP and Bayesian networks *by Afshine Amidi and Shervine Amidi* [link](https://stanford.edu/~shervine/teaching/cs-221/cheatsheet-variables-models)
 - Logic-based models with propositional and first-order logic *by Afshine Amidi and Shervine Amidi* [link](https://stanford.edu/~shervine/teaching/cs-221/cheatsheet-logic-models)
 
+## Math for Machine Learning
+- [Calculus cheat sheet #2](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning/blob/master/Other%20Cheat%20Sheets/calculus/Final%20Notes%20for%20AB%20and%20BC.pdf)
+- [Calculus cheat sheet #2](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning/blob/master/Other%20Cheat%20Sheets/calculus/Calculus_Cheat_Sheet_All.pdf)
+- [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+- [Vector, Matrix, and Tensor Derivatives](https://compsci697l.github.io/docs/vecDerivs.pdf)
+
 ## Visualisation
 - Basics of Matplotlib *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/e1a8f39d-71ad-4d13-9a6b-618fe1b8c9e9)
 - Baiscs of ggp2
@@ -87,7 +89,7 @@ Links to freely available data science cheat sheets
 - Gallery of Distributions [link](https://www.itl.nist.gov/div898/handbook/eda/section3/eda366.htm)
 - Probability Cheatsheet *by William Chen* [link](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
 - Statistics *by Quick Study*[link](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning/blob/master/Other%20Cheat%20Sheets/Statistics/427513-Statistics-Reference-Cheatsheet.pdf)
-- Statistics #1 [link] (https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning/blob/master/Cheat%20Sheet%20Suggested%20by%20Siraj%20Raval/Statistics%20Cheat%20Sheet.pdf)
+- [Statistics #1](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning/blob/master/Cheat%20Sheet%20Suggested%20by%20Siraj%20Raval/Statistics%20Cheat%20Sheet.pdf)
 
 ## Time Series
 - 11 Classical Time Series Forecasting Methods in Python *by Machine Learning Mastery* [link](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)

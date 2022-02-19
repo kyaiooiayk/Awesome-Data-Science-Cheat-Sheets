@@ -13,7 +13,14 @@ Links to freely available data science cheat sheets
 
 ## Biases
 - Complete list of biases *by Ramya Srinivasan and Ajay Chander* [link](https://dl.acm.org/cms/attachment/ce8f80c7-f25c-4f5d-93aa-0ee09a4f7c35/srinivasan1.png)
-- Biases in a ML pipeline [link](https://imgur.com/bvArGRY)
+- Biases in a ML pipeline [link](httfps://imgur.com/bvArGRY)
+
+## Big Data
+- [Big Data Hadoop Cheat Sheet](https://intellipaat.com/blog/tutorial/big-data-and-hadoop-tutorial/big-data-Hadoop-cheat-sheet/)
+- [Scala cheatsheet](https://docs.scala-lang.org/cheatsheets/)
+- [Spark and RDD User Handbook](https://intellipaat.com/blog/tutorial/spark-tutorial/spark-and-rdd-cheat-sheet/)
+- [Hive Functions Cheat-sheet](https://www.qubole.com/wp-content/uploads/2014/01/hive-function-cheat-sheet.pdf)
+- [Spark with sparklyr](https://raw.githubusercontent.com/rstudio/cheatsheets/main/sparklyr.pdf)
 
 ## Big-O Cheat Sheet
 - Time and space complexity *by Eric Rowell* [link](https://www.bigocheatsheet.com/)
@@ -61,7 +68,7 @@ Links to freely available data science cheat sheets
 
 ## Visualisation
 - Basics of Matplotlib *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/e1a8f39d-71ad-4d13-9a6b-618fe1b8c9e9)
-- Baiscs of ggp2
+- [Data Science Cheat Sheet for Business Leaders](https://datacamp-community-prod.s3.amazonaws.com/c06d5eb5-d686-42ae-ba5b-85f5b17b2ed6)
 
 ## Pandas
 - Basics *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/f04456d7-8e61-482f-9cc9-da6f7f25fc9b)
@@ -83,6 +90,12 @@ Links to freely available data science cheat sheets
 
 ## Spark
 - Basic of Spark I *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/acfa4325-1d43-4542-8ce4-bea2d287db10)
+
+## SQL
+- [SQL for beginners](https://programmingwithmosh.com/wp-content/uploads/2019/03/SQL-Cheat-Sheet.pdf)
+- [SQL Expert](https://learnsql.com/blog/sql-basics-cheat-sheet/)
+- [SQL – Data Analysis](https://www.dataquest.io/blog/sql-cheat-sheet/)
+- [PostgreSQL](https://www.postgresqltutorial.com/postgresql-cheat-sheet/)
 
 ## Statistics & Probability
 - Statistical Hypothesis Tests *by Machine Learning Mastery* [link](https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/)

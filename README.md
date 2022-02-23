@@ -97,6 +97,10 @@ Links to freely available data science cheat sheets
 - [SQL – Data Analysis](https://www.dataquest.io/blog/sql-cheat-sheet/)
 - [PostgreSQL](https://www.postgresqltutorial.com/postgresql-cheat-sheet/)
 
+## State of the art
+- [State-of-the-Art Machine Learning Algorithms per Discipline & per Task](https://miro.medium.com/max/1400/1*PpiIpPzKoSCOQP3AoVtP-A.png)
+
+
 ## Statistics & Probability
 - Statistical Hypothesis Tests *by Machine Learning Mastery* [link](https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/)
 - Gallery of Distributions [link](https://www.itl.nist.gov/div898/handbook/eda/section3/eda366.htm)

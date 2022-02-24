@@ -55,15 +55,16 @@ Links to freely available data science cheat sheets
 
 ## Machine Learning
 - [Machine learning methods classification](https://arc.aiaa.org/action/showImage?doi=10.2514%2F1.J060131&iName=master.img-014.jpg&type=master)
-- Data Scients Cheat Sheet *by Aaron Wang* [Part #1](https://raw.githubusercontent.com/aaronwangy/Data-Science-Cheatsheet/main/images/page1-1.png) & [Part #2](https://raw.githubusercontent.com/aaronwangy/Data-Science-Cheatsheet/main/images/page2-1.png)
+- [Data Scients Cheat Sheet *by Aaron Wang* | Part #1](https://raw.githubusercontent.com/aaronwangy/Data-Science-Cheatsheet/main/images/page1-1.png) 
+- [Data Scients Cheat Sheet *by Aaron Wang* | Part #2](https://raw.githubusercontent.com/aaronwangy/Data-Science-Cheatsheet/main/images/page2-1.png)
 - [Complete listed of methods *by Maverick Lin*](https://github.com/ml874/Data-Science-Cheatsheet/blob/master/data-science-cheatsheet.pdf)
 - [Supervised Learning cheatsheet *by Afshine Amidi and Shervine Amidi*](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
-- Unsupervised Learning cheatsheet *by Afshine Amidi and Shervine Amidi* [link](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning)
-- Machine Learning tips and tricks cheatsheet *by Afshine Amidi and Shervine Amidi* [link](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
-- Reflex-based models with Machine Learning *by Afshine Amidi and Shervine Amidi* [link](https://stanford.edu/~shervine/teaching/cs-221/cheatsheet-reflex-models)
-- States-based models with search optimization and MDP *by Afshine Amidi and Shervine Amidi* [link](https://stanford.edu/~shervine/teaching/cs-221/cheatsheet-states-models)
-- Variables-based models with CSP and Bayesian networks *by Afshine Amidi and Shervine Amidi* [link](https://stanford.edu/~shervine/teaching/cs-221/cheatsheet-variables-models)
-- Logic-based models with propositional and first-order logic *by Afshine Amidi and Shervine Amidi* [link](https://stanford.edu/~shervine/teaching/cs-221/cheatsheet-logic-models)
+- [Unsupervised Learning cheatsheet *by Afshine Amidi and Shervine Amidi*](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning)
+- [Machine Learning tips and tricks cheatsheet *by Afshine Amidi and Shervine Amidi*](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
+- [Reflex-based models with Machine Learning *by Afshine Amidi and Shervine Amidi*](https://stanford.edu/~shervine/teaching/cs-221/cheatsheet-reflex-models)
+- [States-based models with search optimization and MDP *by Afshine Amidi and Shervine Amidi*](https://stanford.edu/~shervine/teaching/cs-221/cheatsheet-states-models)
+- [Variables-based models with CSP and Bayesian networks *by Afshine Amidi and Shervine Amidi*](https://stanford.edu/~shervine/teaching/cs-221/cheatsheet-variables-models)
+- [Logic-based models with propositional and first-order logic *by Afshine Amidi and Shervine Amidi*](https://stanford.edu/~shervine/teaching/cs-221/cheatsheet-logic-models)
 - [Supervised learning](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/cheatsheet-supervised-learning.pdf)
 - [Unsuoervised learning](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/cheatsheet-unsupervised-learning.pdf)
 - [Tips & tricks](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
@@ -81,32 +82,32 @@ Links to freely available data science cheat sheets
 - [Gensim CheatSheet](https://cheatography.com/sonali-gadpandey/cheat-sheets/gensim-cheatsheet/pdf_bw/)
  
 ## Visualisation
-- Basics of Matplotlib *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/e1a8f39d-71ad-4d13-9a6b-618fe1b8c9e9)
+- [Basics of Matplotlib *by datacamp*](http://datacamp-community-prod.s3.amazonaws.com/e1a8f39d-71ad-4d13-9a6b-618fe1b8c9e9)
 - [Data Science Cheat Sheet for Business Leaders](https://datacamp-community-prod.s3.amazonaws.com/c06d5eb5-d686-42ae-ba5b-85f5b17b2ed6)
 
 ## Pandas
-- Basics *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/f04456d7-8e61-482f-9cc9-da6f7f25fc9b)
-- Advanced *datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/d4efb29b-f9c6-4f1c-8c98-6f568d88b48f)
-- Comprehensive guide [link](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf?platform=hootsuite)
+- [Basics *by datacamp*](http://datacamp-community-prod.s3.amazonaws.com/f04456d7-8e61-482f-9cc9-da6f7f25fc9b)
+- [Advanced *datacamp*](http://datacamp-community-prod.s3.amazonaws.com/d4efb29b-f9c6-4f1c-8c98-6f568d88b48f)
+- [Comprehensive guide](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf?platform=hootsuite)
 
 ## Python
-- Basic python for data scientist *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/0eff0330-e87d-4c34-88d5-73e80cb955f2)
-- NumPy Basics *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/ba1fe95a-8b70-4d2f-95b0-bc954e9071b0)
+- [Basic python for data scientist *by datacamp*](http://datacamp-community-prod.s3.amazonaws.com/0eff0330-e87d-4c34-88d5-73e80cb955f2)
+- [NumPy Basics *by datacamp*](http://datacamp-community-prod.s3.amazonaws.com/ba1fe95a-8b70-4d2f-95b0-bc954e9071b0)
 
 ## PyTorch
 - [PyTorch cheatsheet](https://pytorch.org/tutorials/beginner/ptcheat.html)
 
 ## Preprocessing
-- Feature selection depending on input/output variavles [link](https://machinelearningmastery.com/wp-content/uploads/2019/11/How-to-Choose-Feature-Selection-Methods-For-Machine-Learning.png)
+- [Feature selection depending on input/output variavles](https://machinelearningmastery.com/wp-content/uploads/2019/11/How-to-Choose-Feature-Selection-Methods-For-Machine-Learning.png)
 
 ## Scikit-learn
 - [Choosing the right estimator in Scikit-learn](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 
 ## Scipy
-- Basics *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/dfdb6d58-e044-4b38-bab3-5de0b825909b)
+- [Basics *by datacamp*](http://datacamp-community-prod.s3.amazonaws.com/dfdb6d58-e044-4b38-bab3-5de0b825909b)
 
 ## Spark
-- Basic of Spark I *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/acfa4325-1d43-4542-8ce4-bea2d287db10)
+- [Basic of Spark I *by datacamp*](http://datacamp-community-prod.s3.amazonaws.com/acfa4325-1d43-4542-8ce4-bea2d287db10)
 
 ## SQL
 - [SQL for beginners](https://programmingwithmosh.com/wp-content/uploads/2019/03/SQL-Cheat-Sheet.pdf)
@@ -119,20 +120,20 @@ Links to freely available data science cheat sheets
 - [State-of-the-Art Machine Learning Algorithms per Discipline & per Task](https://miro.medium.com/max/1400/1*PpiIpPzKoSCOQP3AoVtP-A.png)
 
 ## Statistics & Probability
-- Statistical Hypothesis Tests *by Machine Learning Mastery* [link](https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/)
-- Gallery of Distributions [link](https://www.itl.nist.gov/div898/handbook/eda/section3/eda366.htm)
-- Probability Cheatsheet *by William Chen* [link](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
-- Statistics *by Quick Study*[link](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning/blob/master/Other%20Cheat%20Sheets/Statistics/427513-Statistics-Reference-Cheatsheet.pdf)
+- [Statistical Hypothesis Tests *by Machine Learning Mastery*](https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/)
+- [Gallery of Distributions](https://www.itl.nist.gov/div898/handbook/eda/section3/eda366.htm)
+- [Probability Cheatsheet *by William Chen*](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
+- [Statistics *by Quick Study*](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning/blob/master/Other%20Cheat%20Sheets/Statistics/427513-Statistics-Reference-Cheatsheet.pdf)
 - [Statistics #1](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning/blob/master/Cheat%20Sheet%20Suggested%20by%20Siraj%20Raval/Statistics%20Cheat%20Sheet.pdf)
 
 ## Time Series
-- 11 Classical Time Series Forecasting Methods in Python *by Machine Learning Mastery* [link](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
+- [11 Classical Time Series Forecasting Methods in Python *by Machine Learning Mastery*](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
 
 ## Tensor Flow
-- Keras main classes structures *by ALTOROS* [link](https://cdn-images-1.medium.com/max/2000/1*dtOZSuYDonyyBvEULpJALw.png)
+- [Keras main classes structures *by ALTOROS*](https://cdn-images-1.medium.com/max/2000/1*dtOZSuYDonyyBvEULpJALw.png)
 
 ## Tuning
-- Machine Learning Performance Improvement *by Machine Learning Mastery* [link](https://machinelearningmastery.com/machine-learning-performance-improvement-cheat-sheet/)
+- [Machine Learning Performance Improvement *by Machine Learning Mastery*](https://machinelearningmastery.com/machine-learning-performance-improvement-cheat-sheet/)
 
 ## Kafka
 - [Kafka Cheat Sheet](https://gist.github.com/sahilsk/d2a6ec384f5f2333e3fef40a581a97e1)
@@ -151,5 +152,5 @@ camp*](http://datacamp-community-prod.s3.amazonaws.com/af9bb467-170d-41c9-a0bd-2
 - [Falsk](https://www.codecademy.com/learn/learn-flask/modules/introduction-to-flask/cheatsheet)
 
 ## Vs.
-- Machine Learning vs Statistics vs Statistical Learning [link](https://storage.ning.com/topology/rest/1.0/file/get/3541473617?profile=original)
-- A/B Testing vs. Bandit Testing [link](https://nbviewer.org/github/ethen8181/machine-learning/blob/master/bandits/img/ab_vs_bandit.png)
+- [Machine Learning vs Statistics vs Statistical Learning](https://storage.ning.com/topology/rest/1.0/file/get/3541473617?profile=original)
+- [A/B Testing vs. Bandit Testing](https://nbviewer.org/github/ethen8181/machine-learning/blob/master/bandits/img/ab_vs_bandit.png)

@@ -74,7 +74,10 @@ Links to freely available data science cheat sheets
 
 ## NLP
 - [spaCy: Advanced NLP in Python](https://datacamp-community-prod.s3.amazonaws.com/b5685b85-c4de-4987-926d-b999d0f5a8b6)
-
+- [NLP for Beginners](https://cheatography.com/sree017/cheat-sheets/nlp/pdf_bw/)
+- [NLP Cheatsheet: Master NLP](https://www.kaggle.com/dmitrykilievych/nlp-cheatsheet-master-nlp)
+- [Gensim CheatSheet](https://cheatography.com/sonali-gadpandey/cheat-sheets/gensim-cheatsheet/pdf_bw/)
+ 
 ## Visualisation
 - Basics of Matplotlib *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/e1a8f39d-71ad-4d13-9a6b-618fe1b8c9e9)
 - [Data Science Cheat Sheet for Business Leaders](https://datacamp-community-prod.s3.amazonaws.com/c06d5eb5-d686-42ae-ba5b-85f5b17b2ed6)

@@ -2,18 +2,18 @@
 Links to freely available data science cheat sheets
 
 ## ANNs - Artificial Neural Networks
-- A list of most common ANNs architectures [link#1](https://www.asimovinstitute.org/neural-network-zoo/), [link#2](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
-- How to choose an hidden layer activation function [link](https://machinelearningmastery.com/wp-content/uploads/2020/12/How-to-Choose-an-Hidden-Layer-Activation-Function.png)
-- How to choose an output layer activation function [link](https://machinelearningmastery.com/wp-content/uploads/2020/12/How-to-Choose-an-Output-Layer-Activation-Function.png)
-- Convolutional Neural Networks cheatsheet *by Afshine Amidi and Shervine Amidi* [link](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
-- Recurrent Neural Networks cheatsheet  *by Afshine Amidi and Shervine Amidi* [link](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
+- [A list of most common ANNs architectures](https://www.asimovinstitute.org/neural-network-zoo/), [link#2](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
+- [How to choose an hidden layer activation function](https://machinelearningmastery.com/wp-content/uploads/2020/12/How-to-Choose-an-Hidden-Layer-Activation-Function.png)
+- [How to choose an output layer activation function](https://machinelearningmastery.com/wp-content/uploads/2020/12/How-to-Choose-an-Output-Layer-Activation-Function.png)
+- [Convolutional Neural Networks cheatsheet *by Afshine Amidi and Shervine Amidi*](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
+- [Recurrent Neural Networks cheatsheet  *by Afshine Amidi and Shervine Amidi*](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
 
 ## Azure Machine Learning Studio
-- This cheat sheet helps you choose the best Azure Machine Learning Studio algorithm [link](https://docs.microsoft.com/en-us/azure/machine-learning/media/algorithm-cheat-sheet/machine-learning-algorithm-cheat-sheet.png)
+- [This cheat sheet helps you choose the best Azure Machine Learning Studio algorithm](https://docs.microsoft.com/en-us/azure/machine-learning/media/algorithm-cheat-sheet/machine-learning-algorithm-cheat-sheet.png)
 
 ## Biases
-- Complete list of biases *by Ramya Srinivasan and Ajay Chander* [link](https://dl.acm.org/cms/attachment/ce8f80c7-f25c-4f5d-93aa-0ee09a4f7c35/srinivasan1.png)
-- Biases in a ML pipeline [link](httfps://imgur.com/bvArGRY)
+- [Complete list of biases *by Ramya Srinivasan and Ajay Chander*](https://dl.acm.org/cms/attachment/ce8f80c7-f25c-4f5d-93aa-0ee09a4f7c35/srinivasan1.png)
+- [Biases in a ML pipeline](httfps://imgur.com/bvArGRY)
 
 ## Big Data
 - [Big Data Hadoop Cheat Sheet](https://intellipaat.com/blog/tutorial/big-data-and-hadoop-tutorial/big-data-Hadoop-cheat-sheet/)
@@ -23,7 +23,7 @@ Links to freely available data science cheat sheets
 - [Spark with sparklyr](https://raw.githubusercontent.com/rstudio/cheatsheets/main/sparklyr.pdf)
 
 ## Becoming a Data Scientist
-- Roadme on how to become a data scientist *by Swami Chandrasekaran* [link](http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.png)
+- [Roadme on how to become a data scientist *by Swami Chandrasekaran*](http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.png)
 
 ## Convex Optimisation
 - [Convex optimisation and signal processing](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning/blob/master/Other%20Cheat%20Sheets/linear%20Algebra/A-linalg.pdf)
@@ -34,7 +34,7 @@ Links to freely available data science cheat sheets
 - [Algorithms and Data Structures Cheatsheet](https://algs4.cs.princeton.edu/cheatsheet/)
 
 ## Dashboard
-- Basic of Bokeh *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/f0c1e06f-53ba-4f3b-aa9f-b196221f55a3)
+- [Basic of Bokeh *by datacamp*](http://datacamp-community-prod.s3.amazonaws.com/f0c1e06f-53ba-4f3b-aa9f-b196221f55a3)
 
 ## Deep Learning
 - [Deep Learning Tips and Tricks cheatsheet *by Afshine Amidi and Shervine Amidi*](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks)
@@ -42,17 +42,18 @@ Links to freely available data science cheat sheets
 - [Deep learning](https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/en/super-cheatsheet-deep-learning.pdf)
 
 ## Docker
-- The Ultimate Docker Cheat Sheet [link](https://dockerlabs.collabnix.com/docker/cheatsheet/)
+- [The Ultimate Docker Cheat Sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/)
+- [Docker cheatsheet](https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf)
 
 ## GAN - Generative Adversarial Networkds
-- Tips for Training Stable GANs [link](https://machinelearningmastery.com/how-to-train-stable-generative-adversarial-networks/)
+- [Tips for Training Stable GANs](https://machinelearningmastery.com/how-to-train-stable-generative-adversarial-networks/)
 
 ## Linear Algebra & Calculus
-- Linear Algebra Cheat Sheet for Machine Learning *by Machine Learning Mastery* [link](https://machinelearningmastery.com/linear-algebra-cheat-sheet-for-machine-learning/)
+- [Linear Algebra Cheat Sheet for Machine Learning *by Machine Learning Mastery*](https://machinelearningmastery.com/linear-algebra-cheat-sheet-for-machine-learning/)
 - [Linear algebra](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning/blob/master/Other%20Cheat%20Sheets/linear%20Algebra/linear-algebra.pdf)
 
 ## Machine Learning
-- Machine learning methods classification [link](https://arc.aiaa.org/action/showImage?doi=10.2514%2F1.J060131&iName=master.img-014.jpg&type=master)
+- [Machine learning methods classification](https://arc.aiaa.org/action/showImage?doi=10.2514%2F1.J060131&iName=master.img-014.jpg&type=master)
 - Data Scients Cheat Sheet *by Aaron Wang* [Part #1](https://raw.githubusercontent.com/aaronwangy/Data-Science-Cheatsheet/main/images/page1-1.png) & [Part #2](https://raw.githubusercontent.com/aaronwangy/Data-Science-Cheatsheet/main/images/page2-1.png)
 - Complete listed of methods *by Maverick Lin* [link](https://github.com/ml874/Data-Science-Cheatsheet/blob/master/data-science-cheatsheet.pdf)
 - Supervised Learning cheatsheet *by Afshine Amidi and Shervine Amidi* [link](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
@@ -111,6 +112,7 @@ Links to freely available data science cheat sheets
 - [SQL Expert](https://learnsql.com/blog/sql-basics-cheat-sheet/)
 - [SQL – Data Analysis](https://www.dataquest.io/blog/sql-cheat-sheet/)
 - [PostgreSQL](https://www.postgresqltutorial.com/postgresql-cheat-sheet/)
+- [Pyspark SQL](https://datacamp-community-prod.s3.amazonaws.com/02213cb4-b391-4516-adcd-57243ced8eed)fda
 
 ## State of the art
 - [State-of-the-Art Machine Learning Algorithms per Discipline & per Task](https://miro.medium.com/max/1400/1*PpiIpPzKoSCOQP3AoVtP-A.png)
@@ -131,12 +133,21 @@ Links to freely available data science cheat sheets
 ## Tuning
 - Machine Learning Performance Improvement *by Machine Learning Mastery* [link](https://machinelearningmastery.com/machine-learning-performance-improvement-cheat-sheet/)
 
+## Kafka
+- [Kafka Cheat Sheet](https://gist.github.com/sahilsk/d2a6ec384f5f2333e3fef40a581a97e1)
+
 ## Keras
-- [Basics of Keras *by datacamp*](http://datacamp-community-prod.s3.amazonaws.com/af9bb467-170d-41c9-a0bd-26e675384c4e)
+- [Basics of Keras *by 
+camp*](http://datacamp-community-prod.s3.amazonaws.com/af9bb467-170d-41c9-a0bd-26e675384c4e)
 - [Keras Cheat Sheet](https://datacamp-community-prod.s3.amazonaws.com/af9bb467-170d-41c9-a0bd-26e675384c4e)
 
 ## Uncertainty Quantification
 - Schema for prediction intervals [link](https://machinelearningmastery.com/wp-content/uploads/2018/04/Relationship-between-prediction-actual-value-and-prediction-interval.png)
+
+## Web framework
+- [Streamlit](https://docs.streamlit.io/library/cheatsheet)
+- [FastAPI](https://gitlab.com/euri10/fastapi_cheatsheet/-/tree/master)
+- [Falsk](https://www.codecademy.com/learn/learn-flask/modules/introduction-to-flask/cheatsheet)
 
 ## Vs.
 - Machine Learning vs Statistics vs Statistical Learning [link](https://storage.ning.com/topology/rest/1.0/file/get/3541473617?profile=original)

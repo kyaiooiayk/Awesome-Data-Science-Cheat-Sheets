@@ -22,21 +22,24 @@ Links to freely available data science cheat sheets
 - [Hive Functions Cheat-sheet](https://www.qubole.com/wp-content/uploads/2014/01/hive-function-cheat-sheet.pdf)
 - [Spark with sparklyr](https://raw.githubusercontent.com/rstudio/cheatsheets/main/sparklyr.pdf)
 
-## Big-O Cheat Sheet
-- Time and space complexity *by Eric Rowell* [link](https://www.bigocheatsheet.com/)
-
 ## Becoming a Data Scientist
 - Roadme on how to become a data scientist *by Swami Chandrasekaran* [link](http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.png)
 
 ## Convex Optimisation
 - [Convex optimisation and signal processing](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning/blob/master/Other%20Cheat%20Sheets/linear%20Algebra/A-linalg.pdf)
 
+## Data structure & algorithms
+- [Time and space complexity *by Eric Rowell*](https://www.bigocheatsheet.com/)
+- [Data Structures Cheat Sheet](https://www.clear.rice.edu/comp160/data_cheat.html)
+- [Algorithms and Data Structures Cheatsheet](https://algs4.cs.princeton.edu/cheatsheet/)
+
 ## Dashboard
 - Basic of Bokeh *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/f0c1e06f-53ba-4f3b-aa9f-b196221f55a3)
 
 ## Deep Learning
-- Deep Learning Tips and Tricks cheatsheet *by Afshine Amidi and Shervine Amidi* [link](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks)
-- Deep Learning cheatsheet *by Afshine Amidi and Shervine Amidi* [link](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
+- [Deep Learning Tips and Tricks cheatsheet *by Afshine Amidi and Shervine Amidi*](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks)
+- [Deep Learning cheatsheet *by Afshine Amidi and Shervine Amidi*](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
+- [Deep learning](https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/en/super-cheatsheet-deep-learning.pdf)
 
 ## Docker
 - The Ultimate Docker Cheat Sheet [link](https://dockerlabs.collabnix.com/docker/cheatsheet/)
@@ -59,12 +62,18 @@ Links to freely available data science cheat sheets
 - States-based models with search optimization and MDP *by Afshine Amidi and Shervine Amidi* [link](https://stanford.edu/~shervine/teaching/cs-221/cheatsheet-states-models)
 - Variables-based models with CSP and Bayesian networks *by Afshine Amidi and Shervine Amidi* [link](https://stanford.edu/~shervine/teaching/cs-221/cheatsheet-variables-models)
 - Logic-based models with propositional and first-order logic *by Afshine Amidi and Shervine Amidi* [link](https://stanford.edu/~shervine/teaching/cs-221/cheatsheet-logic-models)
+- [Supervised learning](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/cheatsheet-supervised-learning.pdf)
+- [Unsuoervised learning](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/cheatsheet-unsupervised-learning.pdf)
+- [Tips & tricks](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
 
 ## Math for Machine Learning
 - [Calculus cheat sheet #2](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning/blob/master/Other%20Cheat%20Sheets/calculus/Final%20Notes%20for%20AB%20and%20BC.pdf)
 - [Calculus cheat sheet #2](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning/blob/master/Other%20Cheat%20Sheets/calculus/Calculus_Cheat_Sheet_All.pdf)
 - [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 - [Vector, Matrix, and Tensor Derivatives](https://compsci697l.github.io/docs/vecDerivs.pdf)
+
+## NLP
+- [spaCy: Advanced NLP in Python](https://datacamp-community-prod.s3.amazonaws.com/b5685b85-c4de-4987-926d-b999d0f5a8b6)
 
 ## Visualisation
 - Basics of Matplotlib *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/e1a8f39d-71ad-4d13-9a6b-618fe1b8c9e9)
@@ -79,11 +88,14 @@ Links to freely available data science cheat sheets
 - Basic python for data scientist *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/0eff0330-e87d-4c34-88d5-73e80cb955f2)
 - NumPy Basics *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/ba1fe95a-8b70-4d2f-95b0-bc954e9071b0)
 
+## PyTorch
+- [PyTorch cheatsheet](https://pytorch.org/tutorials/beginner/ptcheat.html)
+
 ## Preprocessing
 - Feature selection depending on input/output variavles [link](https://machinelearningmastery.com/wp-content/uploads/2019/11/How-to-Choose-Feature-Selection-Methods-For-Machine-Learning.png)
 
 ## Scikit-learn
-- Choosing the right estimator in Scikit-learn [link](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+- [Choosing the right estimator in Scikit-learn](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 
 ## Scipy
 - Basics *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/dfdb6d58-e044-4b38-bab3-5de0b825909b)
@@ -99,7 +111,6 @@ Links to freely available data science cheat sheets
 
 ## State of the art
 - [State-of-the-Art Machine Learning Algorithms per Discipline & per Task](https://miro.medium.com/max/1400/1*PpiIpPzKoSCOQP3AoVtP-A.png)
-
 
 ## Statistics & Probability
 - Statistical Hypothesis Tests *by Machine Learning Mastery* [link](https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/)
@@ -118,7 +129,8 @@ Links to freely available data science cheat sheets
 - Machine Learning Performance Improvement *by Machine Learning Mastery* [link](https://machinelearningmastery.com/machine-learning-performance-improvement-cheat-sheet/)
 
 ## Keras
-- Basics of Keras *by datacamp* [link](http://datacamp-community-prod.s3.amazonaws.com/af9bb467-170d-41c9-a0bd-26e675384c4e)
+- [Basics of Keras *by datacamp*](http://datacamp-community-prod.s3.amazonaws.com/af9bb467-170d-41c9-a0bd-26e675384c4e)
+- [Keras Cheat Sheet](https://datacamp-community-prod.s3.amazonaws.com/af9bb467-170d-41c9-a0bd-26e675384c4e)
 
 ## Uncertainty Quantification
 - Schema for prediction intervals [link](https://machinelearningmastery.com/wp-content/uploads/2018/04/Relationship-between-prediction-actual-value-and-prediction-interval.png)

@@ -2,7 +2,8 @@
 Links to freely available data science cheat sheets
 
 ## ANNs - Artificial Neural Networks
-- [A list of most common ANNs architectures](https://www.asimovinstitute.org/neural-network-zoo/), [link#2](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
+- [A list of most common ANNs architectures | part #1](https://www.asimovinstitute.org/neural-network-zoo/)
+- [A list of most common ANNs architectures | part #2](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
 - [How to choose an hidden layer activation function](https://machinelearningmastery.com/wp-content/uploads/2020/12/How-to-Choose-an-Hidden-Layer-Activation-Function.png)
 - [How to choose an output layer activation function](https://machinelearningmastery.com/wp-content/uploads/2020/12/How-to-Choose-an-Output-Layer-Activation-Function.png)
 - [Convolutional Neural Networks cheatsheet *by Afshine Amidi and Shervine Amidi*](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
@@ -55,8 +56,8 @@ Links to freely available data science cheat sheets
 ## Machine Learning
 - [Machine learning methods classification](https://arc.aiaa.org/action/showImage?doi=10.2514%2F1.J060131&iName=master.img-014.jpg&type=master)
 - Data Scients Cheat Sheet *by Aaron Wang* [Part #1](https://raw.githubusercontent.com/aaronwangy/Data-Science-Cheatsheet/main/images/page1-1.png) & [Part #2](https://raw.githubusercontent.com/aaronwangy/Data-Science-Cheatsheet/main/images/page2-1.png)
-- Complete listed of methods *by Maverick Lin* [link](https://github.com/ml874/Data-Science-Cheatsheet/blob/master/data-science-cheatsheet.pdf)
-- Supervised Learning cheatsheet *by Afshine Amidi and Shervine Amidi* [link](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
+- [Complete listed of methods *by Maverick Lin*](https://github.com/ml874/Data-Science-Cheatsheet/blob/master/data-science-cheatsheet.pdf)
+- [Supervised Learning cheatsheet *by Afshine Amidi and Shervine Amidi*](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
 - Unsupervised Learning cheatsheet *by Afshine Amidi and Shervine Amidi* [link](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning)
 - Machine Learning tips and tricks cheatsheet *by Afshine Amidi and Shervine Amidi* [link](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
 - Reflex-based models with Machine Learning *by Afshine Amidi and Shervine Amidi* [link](https://stanford.edu/~shervine/teaching/cs-221/cheatsheet-reflex-models)

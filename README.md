@@ -93,6 +93,8 @@ Links to freely available data science cheat sheets
 ## Python
 - [Basic python for data scientist *by datacamp*](http://datacamp-community-prod.s3.amazonaws.com/0eff0330-e87d-4c34-88d5-73e80cb955f2)
 - [NumPy Basics *by datacamp*](http://datacamp-community-prod.s3.amazonaws.com/ba1fe95a-8b70-4d2f-95b0-bc954e9071b0)
+- [Python Cheat Sheet by WebsiteSetup](https://websitesetup.org/python-cheat-sheet/)
+***
 
 ## PyTorch
 - [PyTorch cheatsheet](https://pytorch.org/tutorials/beginner/ptcheat.html)

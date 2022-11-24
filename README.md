@@ -116,7 +116,7 @@ Links to freely available data science cheat sheets
 - [SQL Expert](https://learnsql.com/blog/sql-basics-cheat-sheet/)
 - [SQL – Data Analysis](https://www.dataquest.io/blog/sql-cheat-sheet/)
 - [PostgreSQL](https://www.postgresqltutorial.com/postgresql-cheat-sheet/)
-- [Pyspark SQL](https://datacamp-community-prod.s3.amazonaws.com/02213cb4-b391-4516-adcd-57243ced8eed)fda
+- [Pyspark SQL](https://datacamp-community-prod.s3.amazonaws.com/02213cb4-b391-4516-adcd-57243ced8eed)
 
 ## State of the art
 - [State-of-the-Art Machine Learning Algorithms per Discipline & per Task](https://miro.medium.com/max/1400/1*PpiIpPzKoSCOQP3AoVtP-A.png)

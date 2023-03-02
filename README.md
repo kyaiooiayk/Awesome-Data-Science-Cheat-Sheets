@@ -1,4 +1,4 @@
-# Data-Science-Cheatsheets
+# Data Science & Machine Learning Cheatsheets
 *Links to freely available data science and machine learning cheatsheets*
 ***
 

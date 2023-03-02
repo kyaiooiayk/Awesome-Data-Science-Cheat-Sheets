@@ -152,6 +152,7 @@ Links to freely available data science cheat sheets
 - [Probability Cheatsheet *by William Chen*](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
 - [Statistics *by Quick Study*](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning/blob/master/Other%20Cheat%20Sheets/Statistics/427513-Statistics-Reference-Cheatsheet.pdf)
 - [Statistics #1](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning/blob/master/Cheat%20Sheet%20Suggested%20by%20Siraj%20Raval/Statistics%20Cheat%20Sheet.pdf)
+- [5 Statistical Paradoxes Data Scientists Should Know](https://www.kdnuggets.com/2023/02/5-statistical-paradoxes-data-scientists-know.html)
 ***
 
 ## Time Series

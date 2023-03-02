@@ -1,5 +1,5 @@
-# Data-Science-Cheat-Sheets
-Links to freely available data science cheat sheets
+# Data-Science-Cheatsheets
+*Links to freely available data science and machine learning cheatsheets*
 ***
 
 ## ANNs - Artificial Neural Networks

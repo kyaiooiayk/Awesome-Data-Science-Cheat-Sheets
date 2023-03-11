@@ -86,8 +86,13 @@
 ## Math for Machine Learning
 - [Calculus cheat sheet #2](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning/blob/master/Other%20Cheat%20Sheets/calculus/Final%20Notes%20for%20AB%20and%20BC.pdf)
 - [Calculus cheat sheet #2](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning/blob/master/Other%20Cheat%20Sheets/calculus/Calculus_Cheat_Sheet_All.pdf)
+- [Calculus](https://github.com/koushikcs09/Data-Science--Cheat-Sheet/blob/master/Ordinary%20Differential%20Equations/calculus.pdf)
 - [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 - [Vector, Matrix, and Tensor Derivatives](https://compsci697l.github.io/docs/vecDerivs.pdf)
+- [Linear algebra](https://github.com/koushikcs09/Data-Science--Cheat-Sheet/blob/master/Ordinary%20Differential%20Equations/linear-algebra.pdf)
+- [First order ODE](https://github.com/koushikcs09/Data-Science--Cheat-Sheet/blob/master/Ordinary%20Differential%20Equations/cheatsheet-first-ode.pdf)
+- [Second order ODE](https://github.com/koushikcs09/Data-Science--Cheat-Sheet/blob/master/Ordinary%20Differential%20Equations/cheatsheet-second-ode.pdf)
+- [Linear algebra and calculus](https://github.com/koushikcs09/Data-Science--Cheat-Sheet/blob/master/Ordinary%20Differential%20Equations/Linear%20Algebra%20and%20Calculus.pdf)
 ***
 
 ## NLP
@@ -152,7 +157,10 @@
 - [Probability Cheatsheet *by William Chen*](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
 - [Statistics *by Quick Study*](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning/blob/master/Other%20Cheat%20Sheets/Statistics/427513-Statistics-Reference-Cheatsheet.pdf)
 - [Statistics #1](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning/blob/master/Cheat%20Sheet%20Suggested%20by%20Siraj%20Raval/Statistics%20Cheat%20Sheet.pdf)
+- [Statistics #2](https://github.com/koushikcs09/Data-Science--Cheat-Sheet/blob/master/Probability%20and%20Statistics/cheatsheet-statistics.pdf)
 - [5 Statistical Paradoxes Data Scientists Should Know](https://www.kdnuggets.com/2023/02/5-statistical-paradoxes-data-scientists-know.html)
+- [Probability and Statistics for Engineers](https://github.com/koushikcs09/Data-Science--Cheat-Sheet/blob/master/Probability%20and%20Statistics/cheatsheet-probability.pdf)
+- [Complite probability cheatsheet](https://github.com/koushikcs09/Data-Science--Cheat-Sheet/blob/master/Probability%20and%20Statistics/probability_cheatsheet.pdf)
 ***
 
 ## Time Series

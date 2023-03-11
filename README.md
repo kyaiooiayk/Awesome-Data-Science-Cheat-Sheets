@@ -31,6 +31,7 @@
 ## Becoming a Data Scientist
 - [Roadme on how to become a data scientist *by Swami Chandrasekaran*](http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.png)
 - [Must known concepts in data science](https://github.com/koushikcs09/Data-Science--Cheat-Sheet/blob/master/Data%20Science/Data%20Science%20Cheat%20Sheet.pdf)
+- [101 in AI](https://github.com/koushikcs09/Data-Science--Cheat-Sheet/blob/master/Artificial%20Intelligence/ai4all.pdf)
 ***
 
 ## Convex Optimisation

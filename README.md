@@ -50,6 +50,7 @@
 - [Deep Learning Tips and Tricks cheatsheet *by Afshine Amidi and Shervine Amidi*](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks)
 - [Deep Learning cheatsheet *by Afshine Amidi and Shervine Amidi*](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
 - [Deep learning](https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/en/super-cheatsheet-deep-learning.pdf)
+- [Must known DL concepts](https://github.com/koushikcs09/Data-Science--Cheat-Sheet/blob/master/Deep%20Learning/super-cheatsheet-deep-learning.pdf)
 ***
 
 ## Docker
@@ -79,8 +80,9 @@
 - [Variables-based models with CSP and Bayesian networks *by Afshine Amidi and Shervine Amidi*](https://stanford.edu/~shervine/teaching/cs-221/cheatsheet-variables-models)
 - [Logic-based models with propositional and first-order logic *by Afshine Amidi and Shervine Amidi*](https://stanford.edu/~shervine/teaching/cs-221/cheatsheet-logic-models)
 - [Supervised learning](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/cheatsheet-supervised-learning.pdf)
-- [Unsuoervised learning](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/cheatsheet-unsupervised-learning.pdf)
+- [Unsupervised learning](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/cheatsheet-unsupervised-learning.pdf)
 - [Tips & tricks](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
+- [Must known ML concepts](https://github.com/koushikcs09/Data-Science--Cheat-Sheet/blob/master/Machine%20Learning/ML%20Cheat%20Sheet.pdf)
 ***
 
 ## Math for Machine Learning
